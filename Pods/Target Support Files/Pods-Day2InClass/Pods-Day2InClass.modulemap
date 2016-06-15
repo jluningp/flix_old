@@ -1,0 +1,6 @@
+framework module Pods_Day2InClass {
+  umbrella header "Pods-Day2InClass-umbrella.h"
+
+  export *
+  module * { export * }
+}
