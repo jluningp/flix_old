@@ -36,7 +36,7 @@ GIF created with [LiceCap](http://www.cockos.com/licecap/).
 ## Credits
 
 - [AFNetworking](https://github.com/AFNetworking/AFNetworking) - networking task library
-- [MBProgressHUD] - loading screen for swipe down
+- [MBProgressHUD](https://cocoapods.org/pods/MBProgressHUD) - loading screen for swipe down
 
 ## License
 
